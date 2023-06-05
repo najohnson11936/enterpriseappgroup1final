@@ -1,4 +1,4 @@
-# Vechi-cool Rentals
+# Vehi-cool Rentals
 
 Have you ever wanted to go on a road trip with your friends? Have you ever decided to rent a car so you could all ride together? Bearcat Car Rental can help you:
 
