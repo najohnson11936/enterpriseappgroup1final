@@ -109,7 +109,7 @@ Use our web application to find and make a reservation for your future car renta
 
 [Backlog for Vehi-cool Rentals](https://enterprisegroup1.atlassian.net/jira/software/projects/G1FP/boards/1/backlog)
 
-Milestones and Tasks for Sprint #1
+## Milestones and Tasks for Sprint #1
 
 Milestones:
 - UI Expansion and Unit Test Implementation
