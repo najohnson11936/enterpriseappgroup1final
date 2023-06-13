@@ -1,6 +1,6 @@
-# Vechi-cool Rentals
+# Vehi-cool Rentals
 
-Have you ever wanted to go on a road trip with your friends? Have you ever decided to rent a car so you could all ride together? Bearcat Car Rental can help you:
+Have you ever wanted to go on a road trip with your friends? Have you ever decided to rent a car so you could all ride together? Vehi-cool Rentals can help you:
 
 - Locate nearby car rentals
 - Make a reservation for any available car
@@ -109,7 +109,7 @@ Use our web application to find and make a reservation for your future car renta
 
 [Backlog for Vehi-cool Rentals](https://enterprisegroup1.atlassian.net/jira/software/projects/G1FP/boards/1/backlog)
 
-Milestones and Tasks for Sprint #1
+## Milestones and Tasks for Sprint #1
 
 Milestones:
 - UI Expansion and Unit Test Implementation
@@ -171,3 +171,6 @@ Scrum Roles:
 - Scrum Master & Product Owner: Nick Johnson
 - Business Layer/Backend: Levi Huff
 - UI/Frontend: Jake Plagge, Wilmer Esquivel
+
+# Weekly team meetings
+The Vehi-cool Rentals team gets together every Tuesday @ 8pm EST on Discord
